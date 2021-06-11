@@ -93,10 +93,10 @@
         ✔ Monitorando e fazendo login;
         ✔ Auth com Banco de dados;
         ✔ Auth com Banco de dados Parte 02;
-    - [ ] Context Api;
-        - Porque ContextApi?;
-        - Usando Context;
-        - Visão do Context;
+    - [✔] Context Api;
+        ✔ Porque ContextApi?;
+        ✔ Usando Context;
+        ✔ Visão do Context;
     - [ ] Sistemas de Chamados;
         - Conhecendo o Projeto;
         - Criando projeto;
